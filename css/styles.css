@@ -56,3 +56,28 @@ img {
 p{
   text-align: center;
 }
+.form {
+     width: 100%;
+     margin-left: 20px;
+   }
+label {
+     color: #333;
+     font-size: 20px;
+     margin-top: 10px;
+ }
+ #reveal-result {
+  height: 150px;
+  width: 100%;
+  padding-top: 17px;
+  padding-bottom: 10px;
+  margin-bottom: 5px;
+  background-color: transparent;
+  border: dotted darkviolet;
+  border-radius: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: #333;
+  font-style: italic;
+  text-align: center;
+}
