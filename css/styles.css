@@ -1,9 +1,10 @@
 body {
-    background-color:lightblue;
-    max-width: 100%;
-    overflow-x: hidden;
-    background-size: cover;
-    background-repeat: no-repeat;s
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("images/asdf.png");
+
 }
 .container {
   width: 400px;
@@ -52,7 +53,7 @@ img {
   position:relative;
 }
 
-<img src="images/akan.jpeg" alt="AKAN">
+
 p{
   text-align: center;
 }
