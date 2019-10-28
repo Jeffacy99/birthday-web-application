@@ -17,7 +17,7 @@ body {
 }
 .jumbotron {
      height: 50px;
-     background-color: rgb(243, 177, 195);
+     background-color:#fd7e14;
      color: #333;
      padding-top: 10px;
      margin-bottom: 0;
@@ -44,15 +44,25 @@ input[type=text] {
   margin: 8px 0;
   box-sizing: border-box;
 }
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  height: 150px;
-  width: 200px;
-  position:relative;
+.container-fluid {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.fillForm {
+  align-content: center;
+}
+.row {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
+.card-title {
+  margin-bottom: 0.75rem;
+  margin-left: 22px;
+}
 
 p{
   text-align: center;
