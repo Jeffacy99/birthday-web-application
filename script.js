@@ -1,4 +1,4 @@
-let AKAN= document.getElementById("AKAN");
+let akanForm= document.getElementById("akanForm");
 akanForm.addEventListener("submit", (e) => {
     e.preventDefault();
 
@@ -84,6 +84,6 @@ akanForm.addEventListener("submit", (e) => {
         akanName = maleAkanNames[6];
     }
 
-    let result = document.getElementById("reveal-result").innerHTML = "!!It's your birthday" + bornDay + " and your akan name is " + akanName + "!"
+    let result = document.getElementById("reveal-result").innerHTML = "It's your birthday" + bornDay + " and your akan name is " + akanName + "!"
     document.getElementById("akanForm").reset();
 });
