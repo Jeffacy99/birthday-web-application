@@ -1,0 +1,43 @@
+.container {
+  width: 400px;
+  clear: both;
+}
+
+.container input {
+  width: 80%;
+  clear: both;
+}
+input[type=submit] {
+  width: 25%;
+  background-color: #4CAF50;
+  color: yellow;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  position: static;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 150px;
+  width: 200px;
+  position:relative;
+}
+
+<img src="images/akan.jpeg" alt="AKAN">
+p{
+  text-align: center;
+}
