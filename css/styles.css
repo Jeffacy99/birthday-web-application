@@ -66,16 +66,16 @@ label {
      margin-top: 10px;
  }
  #reveal-result {
-  height: 150px;
-  width: 100%;
-  padding-top: 17px;
+  height: 70px;
+  width: 50%;
+  padding-top: 12px;
   padding-bottom: 10px;
   margin-bottom: 5px;
   background-color: transparent;
   border: dotted darkviolet;
   border-radius: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   color: #333;
   font-style: italic;
