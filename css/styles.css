@@ -3,7 +3,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image:url("images/asdf.png");
+  background-image: linear-gradient( rgb(255, 255, 255, 0.7), rgb(255, 255, 255, 0.8)), url(../images/asdf.png);
 
 }
 .container {
