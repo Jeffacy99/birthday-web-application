@@ -24,11 +24,6 @@ submit.addEventListener("click", function(){
     dayOfTheWeek = parseInt(dayOfTheWeek);
     dayOfBirth=parseInt(dayOfBirth);
 
-  
-
-
-
-
 
     if (dayOfTheWeek == 0 && female) {
         bornDay = "Sunday";
